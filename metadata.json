@@ -1,0 +1,6 @@
+{
+  "name": "BMT UGT Nusantara Cab. Pasirian",
+  "description": "Aplikasi Pembiayaan & Tagihan Angsuran Untuk Account Officer (AO)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
